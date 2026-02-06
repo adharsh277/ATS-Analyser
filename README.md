@@ -32,6 +32,11 @@ Built with FastAPI, designed with DevOps best practices.
 - GitHub Codespaces ready
 
 ---
+## 📸 Screenshots
+
+![ATS Screenshot 1](assets/ATS1.png)
+![ATS Screenshot 2](assets/ATS2.png)
+
 
 ## 📦 How to Run Locally
 
